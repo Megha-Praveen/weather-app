@@ -1,0 +1,8 @@
+/* App.css */
+body {
+  font-family: "Arial", sans-serif;
+  background: url('assets/bg.jpg');
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
